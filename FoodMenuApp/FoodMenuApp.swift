@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct FoodMenuAppApp: App {
+struct FoodMenuApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
